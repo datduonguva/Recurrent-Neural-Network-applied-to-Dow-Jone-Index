@@ -1,4 +1,6 @@
-#Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+""" Created by Dat Duong
+    on 9/13/2018
+"""
 import pandas as pd
 from datetime import datetime, timedelta
 import os
